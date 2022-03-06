@@ -1,1 +1,1 @@
-# ml_bookcamp
+# Machine Learning Bookcamp
